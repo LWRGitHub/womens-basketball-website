@@ -6,8 +6,12 @@ const WorkCited = () => (
         <h2 className='ml-5  mt-5'><u>Work Cited</u></h2>
         <p className="my-5" style={{fontSize: '20px'}}>
             <ul>
-            <li><a href="/files/First-Girl's-Basketball-Tournament.pdf">First Girl's Basketball Tournament PDF</a></li>
-            <li><a href="/files/work-cited.pdf">Work Cited PDF</a></li>
+                <li>
+                    <a href="/files/First-Girl's-Basketball-Tournament.pdf">First Girl's Basketball Tournament PDF</a>
+                </li>
+                <li>
+                    <a href="/files/work-cited.pdf">Work Cited PDF</a>
+                </li>
             </ul>
         </p> 
     </div>

@@ -9,7 +9,9 @@ const Header = () => (
       <NavLink className="btn btn-outline-secondary m-2" to="/about">About</NavLink>
     </nav>
     <div class="jumbotron" >
-      <h1 class="display-4 p-1 font-weight-bold text-center">Women's Basketball Through The Years</h1>
+      <h1 class="display-4 p-1 font-weight-bold text-center">
+        Women's Basketball Through The Years
+      </h1>
     </div>
   </header>
 );

@@ -2,10 +2,10 @@ import React from 'react';
 // import { NavLink } from 'react-router-dom';
 
 const Home = () => (
-    <div className='container bg-light rounded'>
+    <div className='container bg-light rounded mb-5'>
         <div className="row">
-            <div class="col-12 col-sm-5">
-            <img src="#" />
+            <div class="col-12 col-sm-5 my-auto">
+                <img class="rounded img-fluid" src={process.env.PUBLIC_URL + '/images/old-basketball-cort.jpg'} />
             </div>
             <div className="col-12 col-sm-7">
                 <div className="row my-5 p-2 pt-4">

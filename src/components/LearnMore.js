@@ -15,8 +15,8 @@ const LearnMore = () => (
                     <p>Since women could not compete in college ball, they also played for businesses. These games were to boost morale and to promote companies' products. But even with this in mind companies still would schedule beauty contests that would concurrently compete with tournaments.</p>
                 </div>
             </div>
-            <div class="col-12 col-sm-5 text-center">
-            <img className='img-fluid' src='#' />
+            <div class="col-12 col-sm-5 my-auto">
+                <img class="rounded img-fluid" src={process.env.PUBLIC_URL + '/images/old-team.jpg'} />
             </div>
         </div>
 

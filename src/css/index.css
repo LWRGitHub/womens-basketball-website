@@ -49,17 +49,13 @@ code {
 .jumbotron{
   display: flex;
   align-items: center;
-  background-image: url("#");
+  background-image: url("http://3.bp.blogspot.com/_-hvHjcMx9rs/TRIkSJ0IjEI/AAAAAAAAABc/D61Y0jzwAuw/s1600/3b46486r.jpg");
   background-size: cover;
-  color: #ffffff;
-  height: 250px;
+  color: #ffaf7dd1;
+  height: 600px;
 }
 
 body {
   font-family: Roboto, sans-serif;
-  background-image: url('#');
+  /* background-image: url('#'); */
 }
-
-/* hr{
-  border: 1px solid white;
-} */

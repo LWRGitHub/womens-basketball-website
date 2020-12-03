@@ -1,5 +1,4 @@
 import React from 'react';
-import { NavLink } from 'react-router-dom';
 
 const WorkCited = () => (
     <div className='bg-light rounded m-5 p-5'>

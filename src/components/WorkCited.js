@@ -7,10 +7,10 @@ const WorkCited = () => (
         <p className="my-5" style={{fontSize: '20px'}}>
             <ul>
                 <li>
-                    <a href="/files/First-Girl's-Basketball-Tournament.pdf">First Girl's Basketball Tournament PDF</a>
+                    <a href={process.env.PUBLIC_URL + "/files/First-Girl's-Basketball-Tournament.pdf"}>First Girl's Basketball Tournament PDF</a>
                 </li>
                 <li>
-                    <a href="/files/work-cited.pdf">Work Cited PDF</a>
+                    <a href={process.env.PUBLIC_URL + "/files/work-cited.pdf"}>Work Cited PDF</a>
                 </li>
             </ul>
         </p> 

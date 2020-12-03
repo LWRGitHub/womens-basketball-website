@@ -5,8 +5,8 @@ const About = () => (
         <div class="row">
             <div class="col col-md-7 p-1">
                 <div class='p-5 bg-light rounded'>
-                    <img id="me" className='position-absolute rounded-circle' src='images/logan-reynolds.jpg' style={{width:'80px'}}/>
-                    <img id="jt" className='position-absolute rounded-circle' src='images/jt.png' style={{width:'80px'}}/>
+                    <img id="me" className='position-absolute rounded-circle' src={process.env.PUBLIC_URL + '/images/logan-reynolds.jpg'} style={{width:'80px'}}/>
+                    <img id="jt" className='position-absolute rounded-circle' src={process.env.PUBLIC_URL + '/images/jt.png'} style={{width:'80px'}}/>
                     <br />
                     <p>Hello,</p>
                     <p>Thank you for visiting our website! We hope you have enjoyed the information that you have found and perhaps it has been useful for you. After all we worked very hard on this project and would hope that others would benefit from it other than ourselves.</p>

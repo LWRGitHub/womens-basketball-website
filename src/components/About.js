@@ -15,8 +15,8 @@ const About = () => (
                     <p className='m-0'>Logan Reynolds & Jordan Torres</p>
                 </div>
             </div>
-            <div class="col-12 col-md-5 p-1">
-                <img class="rounded img-fluid" src='#' />
+            <div class="col-12 col-md-5 my-auto">
+                <img class="rounded img-fluid" src={process.env.PUBLIC_URL + '/images/old-womans-basketball-team-pic.jpg'} />
             </div>
         </div>
     </div>

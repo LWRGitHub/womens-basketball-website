@@ -33,8 +33,8 @@ const LearnMore = () => (
                     <p> Lots of hard fought games with close scores. Some of the games going as far as double overtime! The winners of the tournament were Mt. Vernon team. More tournaments did happen after this <NavLink to="/workcited">(reference the book)</NavLink></p>
                 </div>
             </div>
-            <div class="col-12 col-sm-5 text-center">
-            <img className='img-fluid' src={process.env.PUBLIC_URL + '/images/mid-play-basketball-game-women.jpg'} />
+            <div class="col-12 col-sm-5 my-auto">
+            <img class="rounded img-fluid" src={process.env.PUBLIC_URL + '/images/mid-play-basketball-game-women.jpg'} />
             </div>
         </div>
 
@@ -49,8 +49,8 @@ const LearnMore = () => (
                     <p>Women now play the same game as men and dont have any restrictions on their playstyle. A huge bump in more women playing the game was in 1972 when title IX was passed. This meant that for sports in colleges there would be equal opportunity to play, earn scholarships, and receive treatment.</p>  
                 </div>
             </div>
-            <div class="col-12 col-sm-5 text-center">
-            <img className='img-fluid' src={process.env.PUBLIC_URL + '/images/color-mid-play-basketball-game-womens.jpg'} />
+            <div class="col-12 col-sm-5 my-auto">
+            <img class="rounded img-fluid" src={process.env.PUBLIC_URL + '/images/color-mid-play-basketball-game-womens.jpg'} />
             </div>
         </div>
 
@@ -62,8 +62,8 @@ const LearnMore = () => (
                     <p>The game happened and it was an amazing show. Since then womens basketball is another example of being offer equal opportunities for women in society and having the ability to play the game they fought so hard for it was an amazing win.</p>
                 </div>
             </div>
-            <div class="col-12 col-sm-5 text-center">
-            <img className='img-fluid' src={process.env.PUBLIC_URL + '/images/womens-basketball-color-shoot.jpg'} />
+            <div class="col-12 col-sm-5 my-auto">
+            <img class="rounded img-fluid" src={process.env.PUBLIC_URL + '/images/womens-basketball-color-shoot.jpg'} />
             </div>
         </div>
 

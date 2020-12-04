@@ -34,7 +34,7 @@ const LearnMore = () => (
                 </div>
             </div>
             <div class="col-12 col-sm-5 text-center">
-            <img className='img-fluid' src={process.env.PUBLIC_URL + 'mid-play-basketball-game-women.jpg'} />
+            <img className='img-fluid' src={process.env.PUBLIC_URL + '/images/mid-play-basketball-game-women.jpg'} />
             </div>
         </div>
 
@@ -50,7 +50,7 @@ const LearnMore = () => (
                 </div>
             </div>
             <div class="col-12 col-sm-5 text-center">
-            <img className='img-fluid' src={process.env.PUBLIC_URL + 'color-mid-play-basketball-game-womens.jpg'} />
+            <img className='img-fluid' src={process.env.PUBLIC_URL + '/images/color-mid-play-basketball-game-womens.jpg'} />
             </div>
         </div>
 
@@ -63,7 +63,7 @@ const LearnMore = () => (
                 </div>
             </div>
             <div class="col-12 col-sm-5 text-center">
-            <img className='img-fluid' src={process.env.PUBLIC_URL + 'womens-basketball-color-shoot.jpg'} />
+            <img className='img-fluid' src={process.env.PUBLIC_URL + '/images/womens-basketball-color-shoot.jpg'} />
             </div>
         </div>
 

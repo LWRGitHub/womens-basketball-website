@@ -56,4 +56,4 @@ git push
 
 ***Works Cited***
 
-<img src="https://raw.githubusercontent.com/LWRGitHub/womens-basketball-website/master/public/images/readme-img/home.png" alt="this is a screen shot of the works cited page for women's basketball through the years. image shows of footer & links to the work that has been cited. Also the image includes a photo of a women's basketball team and a piece of the Jumbotron at the top that includes the photo of the woman's basketball game in play.">
+<img src="https://raw.githubusercontent.com/LWRGitHub/womens-basketball-website/master/public/images/readme-img/work-cited.png" alt="this is a screen shot of the works cited page for women's basketball through the years. image shows of footer & links to the work that has been cited. Also the image includes a photo of a women's basketball team and a piece of the Jumbotron at the top that includes the photo of the woman's basketball game in play.">

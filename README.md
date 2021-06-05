@@ -1,78 +1,59 @@
-# Getting Started with Create React App
+# Women's Basketball Through The Years
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This website is about women's basketball. It provides information about specifice events throughout the years of women's basketball. The site has been made with React.js & hosted through GitHub Pages. We hope you like it!
 
-## Available Scripts
-
-In the project directory, you can run:
-
-### `yarn start`
-
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
-
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
-
-### `yarn test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `yarn build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `yarn eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `yarn build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+**[View Website](http://lwrgithub.github.io/womens-basketball-website)**
 
 
-### install
-- $npm install react-bootstrap bootstrap
-- $npm install --save react-router-dom
+## Tech Used
 
-### used here but you don't need it
-- $npm install gh-pages --save-dev
+- JS
+- React.js
+- React Bootstrap
+- React-Router
+- Bootstrap
+- HTML/CSS
+- [GitHub Pages](http://lwrgithub.github.io/womens-basketball-website)
+
+
+## Setup
+
+### Install/Run
+
+```
+git clone https://github.com/LWRGitHub/womens-basketball-website.git
+cd womens-basketball-website
+yarn install
+yarn start
+```
+
+### Build/Push
+
+***When using GitHub Pages do a build before pushing***
+
+```
+npm run deploy
+git commit -a -m "Some New Code"
+git push
+```
+
+## IMG
+
+***Home***
+
+<img src="https://raw.githubusercontent.com/LWRGitHub/womens-basketball-website/master/public/images/readme-img/home.png" alt="this is a screen shot of the home page for women's basketball through the years. Image of a big photo black-and-white of women playing basketball with the chalkboard in the back.">
+
+
+***Lean More***
+
+<img src="https://raw.githubusercontent.com/LWRGitHub/womens-basketball-website/master/public/images/readme-img/learn-more.png" alt="this is a screen shot of the learn more page for women's basketball through the years. Has written text of how women's basketball got started and an image of a woman's basketball team photo and some info of a tournament and two pictures of a basketball game and play.">
+
+
+***About***
+
+<img src="https://raw.githubusercontent.com/LWRGitHub/womens-basketball-website/master/public/images/readme-img/about.png" alt="this is a screen shot of the about page for women's basketball through the years. Has picture of women's basketball team photo and info about the creators of the website.">
+
+
+***Works Cited***
+
+<img src="https://raw.githubusercontent.com/LWRGitHub/womens-basketball-website/master/public/images/readme-img/home.png" alt="this is a screen shot of the works cited page for women's basketball through the years. image shows of footer & links to the work that has been cited. Also the image includes a photo of a women's basketball team and a piece of the Jumbotron at the top that includes the photo of the woman's basketball game in play.">

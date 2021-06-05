@@ -1,25 +1,25 @@
 {
   "files": {
     "main.css": "/womens-basketball-website/static/css/main.20f016a3.chunk.css",
-    "main.js": "/womens-basketball-website/static/js/main.031ac87f.chunk.js",
-    "main.js.map": "/womens-basketball-website/static/js/main.031ac87f.chunk.js.map",
-    "runtime-main.js": "/womens-basketball-website/static/js/runtime-main.415146c8.js",
-    "runtime-main.js.map": "/womens-basketball-website/static/js/runtime-main.415146c8.js.map",
-    "static/css/2.1a02f21c.chunk.css": "/womens-basketball-website/static/css/2.1a02f21c.chunk.css",
-    "static/js/2.caa2cae7.chunk.js": "/womens-basketball-website/static/js/2.caa2cae7.chunk.js",
-    "static/js/2.caa2cae7.chunk.js.map": "/womens-basketball-website/static/js/2.caa2cae7.chunk.js.map",
-    "static/js/3.21ac6ea1.chunk.js": "/womens-basketball-website/static/js/3.21ac6ea1.chunk.js",
-    "static/js/3.21ac6ea1.chunk.js.map": "/womens-basketball-website/static/js/3.21ac6ea1.chunk.js.map",
+    "main.js": "/womens-basketball-website/static/js/main.3f51750d.chunk.js",
+    "main.js.map": "/womens-basketball-website/static/js/main.3f51750d.chunk.js.map",
+    "runtime-main.js": "/womens-basketball-website/static/js/runtime-main.4f77f9c3.js",
+    "runtime-main.js.map": "/womens-basketball-website/static/js/runtime-main.4f77f9c3.js.map",
+    "static/css/2.5c573378.chunk.css": "/womens-basketball-website/static/css/2.5c573378.chunk.css",
+    "static/js/2.de67be61.chunk.js": "/womens-basketball-website/static/js/2.de67be61.chunk.js",
+    "static/js/2.de67be61.chunk.js.map": "/womens-basketball-website/static/js/2.de67be61.chunk.js.map",
+    "static/js/3.eb1b3180.chunk.js": "/womens-basketball-website/static/js/3.eb1b3180.chunk.js",
+    "static/js/3.eb1b3180.chunk.js.map": "/womens-basketball-website/static/js/3.eb1b3180.chunk.js.map",
     "index.html": "/womens-basketball-website/index.html",
-    "static/css/2.1a02f21c.chunk.css.map": "/womens-basketball-website/static/css/2.1a02f21c.chunk.css.map",
+    "static/css/2.5c573378.chunk.css.map": "/womens-basketball-website/static/css/2.5c573378.chunk.css.map",
     "static/css/main.20f016a3.chunk.css.map": "/womens-basketball-website/static/css/main.20f016a3.chunk.css.map",
-    "static/js/2.caa2cae7.chunk.js.LICENSE.txt": "/womens-basketball-website/static/js/2.caa2cae7.chunk.js.LICENSE.txt"
+    "static/js/2.de67be61.chunk.js.LICENSE.txt": "/womens-basketball-website/static/js/2.de67be61.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.415146c8.js",
-    "static/css/2.1a02f21c.chunk.css",
-    "static/js/2.caa2cae7.chunk.js",
+    "static/js/runtime-main.4f77f9c3.js",
+    "static/css/2.5c573378.chunk.css",
+    "static/js/2.de67be61.chunk.js",
     "static/css/main.20f016a3.chunk.css",
-    "static/js/main.031ac87f.chunk.js"
+    "static/js/main.3f51750d.chunk.js"
   ]
 }

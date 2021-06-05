@@ -1,6 +1,6 @@
 # Women's Basketball Through The Years
 
-This website is about women's basketball. It provides information about specifice events throughout the years of women's basketball. The site has been made with React.js & hosted through GitHub Pages. We hope you like it!
+This website is about women's basketball. It provides information about specific events throughout the years of women's basketball. The site has been made with React.js & hosted through GitHub Pages. We hope you like it!
 
 **[View Website](http://lwrgithub.github.io/womens-basketball-website)**
 
